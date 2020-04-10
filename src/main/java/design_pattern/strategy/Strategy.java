@@ -1,4 +1,4 @@
-package strategy;
+package design_pattern.strategy;
 
 /**
  * @Description: TODO

@@ -1,4 +1,4 @@
-package strategy;
+package design_pattern.strategy;
 
 /**
  * @Description: TODO
@@ -7,6 +7,6 @@ package strategy;
  */
 public class FirstStrategy implements Strategy {
     public void doAction() {
-        System.out.println("first strategy do something.");
+        System.out.println("first design_pattern.strategy do something.");
     }
 }
